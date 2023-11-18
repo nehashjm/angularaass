@@ -1,0 +1,20 @@
+{
+  "company": [
+    {
+      "id": 13,
+      "name": "onkarnj",
+      "empcount": "jadhav",
+      "revenue": "karnataka",
+      "address": "belgavi",
+      "isactive": true
+    },
+    {
+      "name": " sdvd",
+      "empcount": "sdvsdv",
+      "revenue": "sdvs",
+      "address": "sdvds",
+      "isactive": true,
+      "id": 14
+    }
+  ]
+}
